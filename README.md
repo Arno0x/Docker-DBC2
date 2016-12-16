@@ -8,6 +8,8 @@ To start the image in interactive mode:
   
 If you want to save the accesstoken and master key, edit the /dbc2/config.py file in the container or simply copy the desired config.py file from the host to the container.
 
+Project official repository is here: [DBC2 on GitHub](https://github.com/Arno0x/DBC2)
+
 Security Aspects
 -----------
 
